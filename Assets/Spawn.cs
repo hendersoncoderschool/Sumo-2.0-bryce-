@@ -7,7 +7,6 @@ public class Spawn : MonoBehaviour
 {
     public GameObject enemyPrefab;
     private float spawnRange = 9;
-    public bool hasPowerup;
     // Start is called before the first frame update
     void Start()
     {
